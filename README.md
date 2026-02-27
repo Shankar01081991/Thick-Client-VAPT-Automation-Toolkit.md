@@ -188,7 +188,7 @@ DLL enumeration and injection-exposure analysis require the target application t
 
 Click the link below to download the latest version of **Thickclient-Test.ps1**:
 
-👉 *[https://github.com/Shankar01081991/OSCP-Guide/blob/main/Thickclient-Test.ps1]*  
+👉 *[https://github.com/Shankar01081991/Thick-Client-VAPT-Automation-Toolkit.md/blob/main/Thickclient-Test.ps1]*  
 
 > Ensure your environment allows downloading `.ps1` files.  
 > If not, right-click → **Save As**.
